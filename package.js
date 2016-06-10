@@ -13,6 +13,10 @@ Package.onUse(function (api) {
     'nova:core@0.26.2-nova'
   ]);
 
+  api.use([
+    'softwarerero:accounts-t9n'
+  ], {weak: true});
+
   api.addFiles([
     'lib/fr_FR.js'
   ], ["client", "server"]);
