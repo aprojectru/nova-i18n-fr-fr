@@ -18,6 +18,6 @@ Package.onUse(function (api) {
   ], {weak: true});
 
   api.addFiles([
-    'lib/fr_FR.js'
+    'lib/ru_RU.js'
   ], ["client", "server"]);
 });
