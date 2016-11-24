@@ -1,6 +1,6 @@
 Package.describe({
-  name: "nova:i18n-fr-fr",
-  summary: "Telescope i18n package (fr_FR)",
+  name: "nova:i18n-ru-ru",
+  summary: "Telescope i18n package (ru_RU)",
   version: "0.26.2-nova",
   git: "https://github.com/TelescopeJS/telescope.git"
 });
